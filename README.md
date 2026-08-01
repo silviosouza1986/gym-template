@@ -27,11 +27,7 @@ Template genérico de site para academia, de página única, com visual moderno 
 
 ## Como usar
 
-Abra o `index.html` diretamente no navegador ou sirva a pasta com um servidor estático:
-
-```bash
-python3 -m http.server 8000
-```
+Abra o `index.html` diretamente no navegador.
 
 ## Personalização
 
